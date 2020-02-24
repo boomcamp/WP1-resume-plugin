@@ -1,6 +1,6 @@
 # WP2 - resume-plugin
 
-Using this example wordpress shortcode create a custom plugin and display it as a resume format.
+Using this example php class create a custom plugin that displays Thomas Davis information in a resume format.
 
 ### Helpers
 
