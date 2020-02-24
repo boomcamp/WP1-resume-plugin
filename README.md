@@ -1,6 +1,6 @@
 # WP2 - resume-plugin
 
-Using this example wordpress shortcode create a custom plugin and display it in a resume format.
+Using this example wordpress shortcode create a custom plugin and display it as a resume format.
 
 Helpers:
 
@@ -19,9 +19,9 @@ The main file:
 defined( 'ABSPATH' ) or die( 'Nope, not accessing this' );
 
 /*
-Plugin Name: A plugin that fetch external api and display thomasdavis information
-Plugin URI:  https://github.com/jinolacson/resume-plugin
-Description: Creates a resume design from external api.
+Plugin Name: Thomas Davis Resume
+Plugin URI:  https://github.com/jinolacson/WP2-resume-plugin
+Description: Automates the creation of Thomas Davis resume from external api using shortcode.
 Version:     1.0.0
 Author:      Jino Lacson
 Author URI:  https://boom.camp
