@@ -10,7 +10,7 @@ Helpers:
 
 * [FAQ Page](https://www.monster.ca/career-advice/article/top-resume-questions)
 
-File:
+The main file:
 
 <details><summary>Resume/Resume.php</summary><br>
 
@@ -217,3 +217,21 @@ register_uninstall_hook(__FILE__, 'plugin_uninstall');
 ?>
 ```
 </details>
+
+## Requirements
+
+1.) A way to preview resume in wordpress admin dashboard
+2.) A way to display resume in wordpress public site
+3.) A fully functional `activate`, `deactivate` and `uninstall` options
+4.) A responsive resume layout.
+5.) A `Resume.zip`
+
+Optional
+
+6.) Custom post page for resume
+7.) A shortcode `[link href="#"]Go to my resume[/link]` that will redirect to Thomas Davis resume page.
+7.) A class that extends `Wp_enqueue_script` and `Wp_enqueue_style` .
+
+# Finished
+
+Submit a link to your fork of this repository to the Google Classroom assignment related to this project.
