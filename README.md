@@ -2,7 +2,7 @@
 
 Using this example wordpress shortcode create a custom plugin and display it as a resume format.
 
-Helpers:
+### Helpers
 
 * ShortCode : [thomasdavis_resume]
 
@@ -10,7 +10,7 @@ Helpers:
 
 * [FAQ Page](https://www.monster.ca/career-advice/article/top-resume-questions)
 
-The main file:
+### The main file
 
 <details><summary>Resume/Resume.php</summary><br>
 
