@@ -10,7 +10,7 @@ Using this example php class create a custom plugin that displays Thomas Davis i
 
 * [FAQ Page](https://www.monster.ca/career-advice/article/top-resume-questions)
 
-### The main file
+### Template File
 
 <details><summary>Resume/Resume.php</summary><br>
 
