@@ -1,4 +1,4 @@
-# WP2 - resume-plugin
+# Introduction
 
 Using this example php class create a custom plugin that displays Thomas Davis information in a resume format.
 
