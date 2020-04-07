@@ -6,6 +6,8 @@ Using this example php class create a custom plugin that displays Thomas Davis i
 
 * ShortCode : [thomasdavis_resume]
 
+* Api: https://gist.githubusercontent.com/thomasdavis/c9dcfa1b37dec07fb2ee7f36d7278105/raw/eb7968eb551bee9e3136b420394549b9680439d4/resume.json
+
 * [Template(s)](https://speckyboy.com/free-html-resume-templates/)
 
 * [FAQ Page](https://www.monster.ca/career-advice/article/top-resume-questions)
