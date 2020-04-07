@@ -1,6 +1,6 @@
 # Introduction
 
-Using this example php class create a custom plugin that displays Thomas Davis information in a resume format.
+Using this example php class create a custom plugin that displays Thomas Davis information in a resume format from external api.
 
 ### Helpers
 
